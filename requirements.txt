@@ -1,0 +1,2 @@
+pyserial
+opencv-python
